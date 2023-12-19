@@ -8,4 +8,4 @@ def fat_recursivo(n):
 
 # Teste Fatorial Recursivo
 
-print(f'{5}! = {fat_recursivo(5)}')
+print(-f'{5}! = {fat_recursivo(5)}')
